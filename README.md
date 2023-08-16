@@ -7,6 +7,7 @@
 
 ### 封面
 ![Mastering Ethereum](images/cover.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEricleFu%2FMastering-Ethereum.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEricleFu%2FMastering-Ethereum?ref=badge_shield)
 
 ### 目录
 
@@ -53,3 +54,7 @@
 [第十九章 以太坊分叉历史](第十九章.asciidoc)
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEricleFu%2FMastering-Ethereum.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEricleFu%2FMastering-Ethereum?ref=badge_large)
